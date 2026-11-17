@@ -15,8 +15,6 @@ A banca avaliou o prompt, não a resposta da IA. Critérios e pesos: compreensã
 
 Ciclistas que usam a bicicleta como transporte no trajeto entre a estação da CPTM e o centro comercial de São Miguel Paulista, zona leste de São Paulo: trabalhadores, estudantes, entregadores e famílias de baixa renda. Pedalam por trechos sem ciclovia, com buracos e pista escorregadia, dividindo a via com ônibus, carros e motos.
 
-Escolhi esse recorte porque morei na região e usava a bicicleta como transporte.
-
 ## Arquivos
 
 | Arquivo | Conteúdo |
